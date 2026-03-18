@@ -1,6 +1,7 @@
 # Hej, jeg er Jimmi 👋
 
-Fuld-stack webudvikler under uddannelse · Bygger ting med React & Node.js
+Fuld-stack webudvikler under uddannelse · Bygger ting med React & Node.js  
+💡 Jeg går op i clean code, godt UI og brugeroplevelser der bare virker
 
 ---
 
@@ -14,12 +15,14 @@ Fuld-stack webudvikler under uddannelse · Bygger ting med React & Node.js
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### AI & API
+### Værktøjer
 ![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge&logo=mistral&logoColor=white)
 
 ---
@@ -30,4 +33,10 @@ Fuld-stack webudvikler under uddannelse · Bygger ting med React & Node.js
 
 ---
 
-📍 Danmark
+## 📬 Find mig
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://designbyjimmi.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jimmi-larsen)
+[![CV](https://img.shields.io/badge/CV-Download-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](INDSÆT LINK TIL DIN PDF HER)
+
+📍 Horsens, Danmark
