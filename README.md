@@ -36,7 +36,6 @@ Fuld-stack webudvikler under uddannelse · Bygger ting med React & Node.js
 ## 📬 Find mig
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://designbyjimmi.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jimmi-larsen)
-[![CV](https://img.shields.io/badge/CV-Download-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](INDSÆT LINK TIL DIN PDF HER)
+[![CV](https://img.shields.io/badge/CV-Download-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/Saliandros/Saliandros/main/CV-2026.pdf)
 
 📍 Horsens, Danmark
