@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saliandros&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saliandros&show_icons=true&hide=contribs,prs&theme=transparent&hide_border=true)
 
 Hej 👋 Jeg er en dansk webudvikler under uddannelse med fokus på fuld-stack udvikling.
 Jeg bygger primært med React, Next.js og Node.js — og jeg sætter pris på clean code og simpelt design.
