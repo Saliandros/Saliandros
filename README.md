@@ -1,7 +1,7 @@
-# Hej, jeg er Jimmi 👋
+# Hej, jeg er Jimmi
 
-Fuld-stack webudvikler under uddannelse · Bygger ting med React & Node.js  
-💡 Jeg går op i clean code, godt UI og brugeroplevelser der bare virker
+Fuld-stack webudvikler under uddannelse · Studiet specialisere os i React, men jeg er altid klar til at lærer nyt.  
+Jeg går op i clean code, godt UI og brugeroplevelser der bare virker!
 
 ---
 
